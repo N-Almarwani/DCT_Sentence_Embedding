@@ -1,6 +1,6 @@
 # Efficient Sentence Embedding using Discrete Cosine Transform
 
-**Dependencies**
+## Dependencies
 
 - Download SentEval from [this link ](https://github.com/facebookresearch/SentEval) and follow their instructions to download datasets and Dependencies.
 
@@ -8,7 +8,7 @@
 
 
 
-**How to use this code**
+## How to use this code
 
 1- To reproduce the results for DCT, run (in examples/):
 ```
@@ -21,7 +21,7 @@ where k is the number of cofficents to keep.
 
 
 
-**References**
+## References
 
 Please considering citing [1] and [2] if using this code for evaluating DCT sentence embedding methods using Senteval tool.
 
