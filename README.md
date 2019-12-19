@@ -20,6 +20,11 @@ where k is the number of cofficents to keep.
 
 
 
+## An illustration of DCT embeddings 
+
+
+![alt text](https://github.com/N-Almarwani/DCT_Sentence_Embedding/blob/master/DCT_Example.png)
+Figure 1: An illustration of DCT embeddings. The size of the sentence to encode is 4 × 5, where 4 is the number of words and 5 is the number of word embedding dimensions. Each feature vector is transformed using DCT independently. In this example, the final representation is the concatenation of the first two coefficient from all transformed features.
 
 ## References
 
